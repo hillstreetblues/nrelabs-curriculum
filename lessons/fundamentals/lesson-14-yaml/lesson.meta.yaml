@@ -15,7 +15,8 @@ tags:
 utilities:
 - name: linux1
   image: antidotelabs/utility
-
+- name: vqfx
+  image: antidotelabs/vqfx:snap1
 stages:
   - id: 1
     description: Lists
